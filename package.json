@@ -1,0 +1,23 @@
+{
+  "name": "map-cache2",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moander/node-map-cache2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moander/node-map-cache2/issues"
+  },
+  "homepage": "https://github.com/moander/node-map-cache2#readme",
+  "devDependencies": {
+    "mocha": "^2.3.4",
+    "should": "^8.0.2"
+  }
+}
